@@ -1,7 +1,7 @@
 # PrankFakeAdminPanel
 ### This Admin Panel is designed for pranks on friends, all coincidences are random.
 
-### Download & Install
+# Download & Install
 
 ### git clone https://github.com/l1vl/PrankFakeAdminPanel
 
