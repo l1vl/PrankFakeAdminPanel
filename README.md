@@ -10,3 +10,11 @@
 ### chmod +x PrankFakeAdminPanel.py
 
 ### python PrankFakeAdminPanel.py
+
+# Login & Password (+ Passcode)
+
+### Login: admin
+### Password: root
+### Passcode: 123
+
+### Enjoy!
